@@ -2,10 +2,11 @@
 # Atmega32
 
 -This repo includes the drivers needes for the Atmega32 prephirals according to the manual
--The repo include 3 parts  -> 
-                                - Libs (BitMath.h , Registers.h , Types.h)
-                                - Src  (Which includes the drivers source files)
-                                - Inc  (Which includes the drivers header files)
+
+-The repo include 3 parts : 
+- Libs (BitMath.h , Registers.h , Types.h)                                
+- Src  (Which includes the drivers source files)
+- Inc  (Which includes the drivers header files)
 
 ## Repo content 
    The repo contain the following drivers
